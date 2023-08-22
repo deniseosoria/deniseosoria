@@ -14,7 +14,7 @@
 - [Ticketing Automation](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [Reverse Backdoor Attack](https://www.youtube.com/watch?v=N-L9hklSlNk)
 
-<h2>📺 Certifications </h2>
+<h2> 📃 Certifications </h2>
 
 - [Security+](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [Google IT Support Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
