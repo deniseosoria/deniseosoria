@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Active Directory Home Lab](https://github.com/deniseosoria/ActiveDirectoryLab)
 - [Ticketing Autimation](https://github.com/joshmadakor1/Algorithms-Practice)
 - [Reverse Backdoor Attack](https://github.com/joshmadakor1/Algorithms-Practice)
 
