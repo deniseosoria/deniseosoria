@@ -8,6 +8,6 @@ I'm a Software Engineer with a B.S. in Computer Science (2023) and a recent Full
 Languages: JavaScript, HTML, CSS, SQL, C++, Python <br/>
 Frameworks & Libraries: React, Node.js, Express <br/>
 Databases & APIs: PostgreSQL, REST APIs <br/>
-
-🔍 Fun fact: I love to bake but I debug better than I decorate.
+<br/>
+🔍 Fun fact: I love to bake but I debug better than I decorate.<br/>
 👉 Let’s build something impactful!
